@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Polishing",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "58c65011-ff06-4a94-8924-e9aaa17b1e4f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "c665ab28-0e70-4e2c-9e36-fd84d9463cec"
+   }
+}

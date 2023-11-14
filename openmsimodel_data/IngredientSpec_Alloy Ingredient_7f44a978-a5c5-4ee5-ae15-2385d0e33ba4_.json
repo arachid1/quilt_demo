@@ -1,0 +1,21 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": null,
+   "name": "Alloy Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "0d19f8fe-879a-44f6-a6a4-281554c66260",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "7f44a978-a5c5-4ee5-ae15-2385d0e33ba4"
+   },
+   "volume_fraction": null
+}

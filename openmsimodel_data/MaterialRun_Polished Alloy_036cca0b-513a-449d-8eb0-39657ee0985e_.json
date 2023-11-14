@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Polished Alloy",
+   "notes": null,
+   "process": {
+      "id": "b0c16b0f-4469-4dda-bb75-fdbe4e53b4d1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "f4aa9dfc-5ca7-49d7-8fc9-85899555f2cf",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "036cca0b-513a-449d-8eb0-39657ee0985e"
+   }
+}
